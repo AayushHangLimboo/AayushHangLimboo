@@ -19,6 +19,9 @@ I'm a beginner exploring web development and game design through small, self-tau
 - UnityProjectsTest – small experiments with C# in Unity  
 - portfolio – my personal site (still rough)
 
+📂 Projects ( Finished 👌 ):
+-  Rock Paper Scissor Game(Basic HTML CSS & JS)-(Deployment Link: https://rock-paper-scissor-game-cyjl.vercel.app/ ).
+  
 > Most of these are ongoing as I build skills and confidence. I update them whenever I improve or learn something new.
 
 🌱 Current goal:
